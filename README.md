@@ -41,4 +41,4 @@ hdt-fuseki: Apache License
 
 ## Authors
 
-Julian Reindorf <julian.reindorf@gmailcom>
+Julian Reindorf
